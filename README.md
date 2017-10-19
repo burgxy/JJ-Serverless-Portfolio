@@ -2,3 +2,9 @@
 This is a self tutorial for building a Serverless Portfolio
 
 First commit started
+
+
+## Technology used
+
+Git and github 
+SSH
