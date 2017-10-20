@@ -6,5 +6,8 @@ First commit started
 
 ## Technology used
 
-Git and github 
+Git and github
 SSH
+jj
+
+## is this working or not
