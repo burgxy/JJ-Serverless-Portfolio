@@ -8,6 +8,10 @@ First commit started
 
 Git and github
 SSH
-jj
+
 
 ## is this working or not
+
+Need to push without password prompt
+
+I have pushed on laptop .. lets try here . 
