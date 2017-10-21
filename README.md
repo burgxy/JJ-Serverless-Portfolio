@@ -1,22 +1,20 @@
 # JJ-Serverless-Portfolio
 This is a self tutorial for building a Serverless Portfolio
 
-First commit started
-
 
 ## Technology used
 
 Git and github
 SSH
-jj
+HTML
+CSS
+Font Awesome
+Google Fonts
 
-## is this working or not
-Need to push without password prompt
-##
+## S3 Bucket set up ..
 
-I have pushed on laptop .. lets try here .
+http://porfolio.halfknown.me.uk.s3-website-us-east-1.amazonaws.com/
 
+## Hosted Domain
 
-this is for the last time ..
-
-no love for you .
+halfknown.me.uk 
