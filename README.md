@@ -22,6 +22,7 @@ This is a self tutorial for building a Serverless Portfolio
 * AWS CodePipeline
 
 
+
 ## Registered & Hosted Domain with Route53
 
 halfknown.me.uk
