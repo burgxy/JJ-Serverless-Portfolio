@@ -7,3 +7,6 @@ portfolio_bucket = s3.Bucket('porfolio.halfknown.me.uk')
 for obj in portfolio_bucket.objects.all():
      print obj.key
 
+portfolio_bucket.download_file('index.html', '/tmp/jj.html')
+
+
