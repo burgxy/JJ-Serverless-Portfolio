@@ -5,6 +5,8 @@
 * jjbuild.halfknown.me.uk   
 (holds the webhook build from codebuild) 
 
+* jjportbuild.zip ( the contents of jjbuild.halfknown.me.uk ) 
+
 * porfolio.halfknown.me.uk    
 (the current contents of my git reposity .. 'https://github.com/burgxy/JJ-Serverless-Portfolio') 
 
