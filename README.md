@@ -3,18 +3,18 @@ This is an AWS/Serverless self tutorial using a simple HTML/JavaScript webpage a
   
     
 At the end of the Course, I would have successfully deployed my sourcecode to AWS, that in turn would demonstrate my tangible understanding of the following technology under Amazon Web Services :-   
-  
-    
+
+
 * AWS Lambda
 * AWS S3
-* AWS CloudFront  
-* AWS IAM  
+* AWS CloudFront
+* AWS IAM
 * AWS Route 53
 * AWS SNS
-* AWS CodeBuild  
-* AWS CodePipeline  
+* AWS CodeBuild
+* AWS CodePipeline
   
-  and these modern technologies:
+  and these modern technologies:  
   
 * ReactJS Framework/Library
 * Git and Github
