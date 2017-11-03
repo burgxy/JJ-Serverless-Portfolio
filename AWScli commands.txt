@@ -1,0 +1,20 @@
+## *** List of current S3 Buckets ***
+
+* halfknown.me.uk   (currently empty) 
+
+* jjbuild.halfknown.me.uk   
+(holds the webhook build from codebuild) 
+
+* porfolio.halfknown.me.uk    
+(the current contents of my git reposity .. 'https://github.com/burgxy/JJ-Serverless-Portfolio') 
+
+
+## *** aws commands ***
+
+aws configure  
+
+aws s3 ls porfolio.halfknown.me.uk 
+
+ipython 
+
+

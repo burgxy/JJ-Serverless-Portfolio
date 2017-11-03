@@ -7,9 +7,9 @@ import mimetypes
 
 s3 = boto3.resource('s3',config=Config(signature_version='s3v4'))
 
-portfolio_bucket = s3.Bucket('jjbucket.halfknown.me.uk')
+portfolio_bucket = s3.Bucket('porfolio.halfknown.me.uk')
 
-build_bucket = s3.Bucket('portfoliobuil.halfknown.me.uk')
+build_bucket = s3.Bucket('jjbuild.halfknown.me.uk')
 
 
 portfolio_zip = StringIO.StringIO()
