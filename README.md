@@ -2,7 +2,7 @@
 This is an AWS/Serverless self tutorial using a simple HTML/JavaScript webpage as a usecase to build a personal online Portfolio    
   
     
-At the end of the Course, I would have successfully deployed my sourcecode to AWS, that in turn would demonstrate my tangible understanding of the following technology under Amazon Web Services :-   
+At the end of the Course, I would have successfully deployed my sourcecode from a github or gitlab repository to an AWS S3 Bucket, that in turn would demonstrate my tangible understanding of the following technology under Amazon Web Services :-   
 
 
 * AWS Lambda
