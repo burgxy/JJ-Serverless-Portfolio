@@ -1,25 +1,49 @@
-# JJ-Serverless-Portfolio
-This is a self tutorial for building a Serverless Portfolio
+# JJ-Serverless-Portfolio 
+This git repo serves as a course work for an AWS/Serverless self tutorial, certification.  Using a simple HTML/JavaScript webpage as a usecase to build a personal online Portfolio    
+  
+    
+At the end of the Course, I would have successfully deployed my sourcecode from a github or gitlab repository to an AWS S3 Bucket, that in turn would demonstrate my tangible understanding of the following technology under Amazon Web Services :-   
 
 
-## Technology used (so far)
-
-* Atom Editor
-* Git and github
-* SSH
-* HTML
-* CSS
-* Font Awesome
-* Google Fonts
-
-## AWS Services (so far)
-
-* AWS S3 (Bucket)
-* AWS IAM
-* AWS Route53
+* AWS Lambda
+* AWS S3
 * AWS CloudFront
+* AWS IAM
+* AWS Route 53
+* AWS SNS
 * AWS CodeBuild
 * AWS CodePipeline
+  
+  and these modern technologies:  
+  
+* ReactJS Framework/Library
+* Git and Github
+* Node Package Manager (NPM)
+* Webpack module bundler
+* Babel
+* Jest
+  
+## Technology used (so far)  
+  
+* Atom Editor 
+* Gedit Editor 
+* Git and github  
+* SSH  
+* HTML  
+* CSS  
+* Font Awesome  
+* Google Fonts  
+  
+## AWS Services (so far)  
+  
+* AWS S3 (Bucket)  
+* AWS IAM  
+* AWS Route53  
+* AWS CloudFront  
+* AWS CodeBuild 
+* AWS Lambda
+* AWS CodePipeline
+
 
 
 
