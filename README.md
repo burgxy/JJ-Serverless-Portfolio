@@ -1,6 +1,8 @@
 # JJ-Serverless-Portfolio 
 This git repo serves as a course work for an AWS/Serverless self tutorial, certification.  Using a simple HTML/JavaScript webpage as a usecase to build a personal online Portfolio    
   
+  
+  
     
 At the end of the Course, I would have successfully deployed my sourcecode from a github or gitlab repository to an AWS S3 Bucket, that in turn would demonstrate my tangible understanding of the following technology under Amazon Web Services :-   
 
@@ -44,8 +46,58 @@ At the end of the Course, I would have successfully deployed my sourcecode from 
 * AWS Lambda
 * AWS CodePipeline
 
+## This is the breakdown of the inticipated flow of the Serverless Application 
 
 
+ * Step 1  
+visitor visits your site (in this case halfknown.me.uk)  
+  
+ * Step 2  
+they would go to your domain name which is managed by Route53  
+  
+  * Step 3  
+  
+route53 directs the site to cloudfront   
+  
+ * Step 4  
+  
+clouldfront hosts and redistributes your site ( Portfolio) accross to the world   
+  
+ * Step 5  
+  
+cloudfront gets the portfolio from S3  
+  
+ * Step 6  
+   
+the portfolio that gets to the user is made up of html , css, javasrcipt and some images ..  
+
+
+html provides the strutture of the portfolio 
+
+css and images provides the look and feel
+
+javascripts permit us to generate some of the html from the data and makes the portfolio interactive 
+
+use a java library called react, designed by facebook .. 
+
+and use another another library called Babel that makes sure your portfolio works on all browsers . 
+
+***************************************
+
+the portfolio is developed on a local machine .. 
+
+the sourcecode will be stored in github 
+
+AWS codepipelines will coordinate other services to build and deploy to the S3 bucket mentioned .. 
+
+AWS  codebuild gets it from github, runs task and build .. 
+
+
+
+
+
+
+********************************
 
 ## Registered & Hosted Domain with Route53
 
