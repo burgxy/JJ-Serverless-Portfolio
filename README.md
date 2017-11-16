@@ -50,35 +50,42 @@ At the end of the Course, I would have successfully deployed my sourcecode from 
 
 
  * Step 1  
-visitor visits your site (in this case halfknown.me.uk)  
+A visitor visits your site (in this case halfknown.me.uk)  
   
  * Step 2  
 they would go to your domain name which is managed by Route53  
   
   * Step 3  
-  
 route53 directs the site to cloudfront   
   
  * Step 4  
-  
 clouldfront hosts and redistributes your site ( Portfolio) accross to the world   
   
  * Step 5  
-  
 cloudfront gets the portfolio from S3  
   
  * Step 6  
-   
 the portfolio that gets to the user is made up of html , css, javasrcipt and some images ..  
-
-
-html provides the strutture of the portfolio 
+  
+ * Step 7
+html provides the structure of the portfolio   
+  
+ * Step 8  
 
 css and images provides the look and feel
 
-javascripts permit us to generate some of the html from the data and makes the portfolio interactive 
+  
+ * Step 9  
+
+
+javascripts permit us to generate some of the html from the data and makes the portfolio interactive   
+ * Step 10  
 
 use a java library called react, designed by facebook .. 
+
+
+ * Step 11  
+ 
 
 and use another another library called Babel that makes sure your portfolio works on all browsers . 
 
