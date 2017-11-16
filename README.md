@@ -67,27 +67,23 @@ cloudfront gets the portfolio from S3
  * Step 6  
 the portfolio that gets to the user is made up of html , css, javasrcipt and some images ..  
   
- * Step 7
+ * Step 7  
 html provides the structure of the portfolio   
   
  * Step 8  
-
 css and images provides the look and feel
 
   
  * Step 9  
-
-
 javascripts permit us to generate some of the html from the data and makes the portfolio interactive   
- * Step 10  
 
+  
+ * Step 10  
 use a java library called react, designed by facebook .. 
 
 
  * Step 11  
- 
-
-and use another another library called Babel that makes sure your portfolio works on all browsers . 
+and use another library called Babel that makes sure your portfolio works on all browsers . 
 
 ***************************************
 
